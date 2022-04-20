@@ -1,7 +1,7 @@
 # TRS_Classic
 Tandy RadioShack Files, Diskette Images and Documents.
 
-# NET_3 Folder
+# NET_3
 DG-MFM Image:
 Emulated Hard Disk Image (15MB) for a TRS-80 Model 4 or Model III with min 48/64K and an external Hard Disk Unit (8x300 Early Type)
 Requires Startup Diskette to intialize the drive: To be uploaded
