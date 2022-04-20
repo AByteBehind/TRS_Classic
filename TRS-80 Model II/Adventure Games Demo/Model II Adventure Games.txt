@@ -1,0 +1,5 @@
+Adventure International-Scott Adams
+TRS-80 Model II Data Diskette
+Requires TRSDOS 2.0a
+
+See https://abytebehind.com/trs-80-model-ii
