@@ -1,0 +1,23 @@
+Two attempts to capture the disk images:
+
+Attempt 1: Using IMD, SSDD, Full Analyis, Keep Bad Sectors
+Results: 0:0 is 18 sectors of 256k on both disks, and both read in a real Model 4, untested on a Model III at this time.
+
+Disk 1: Network III Operating System for Model III Hard Disk with LDOS
+Image had issues with Track 31, Sector 8 (Bad) and shows deleted data on track 20. 
+720 Sectors, 131 Compressed, 18 Deleted, 1 Bad
+
+Disk 2: 
+Image captured with zero errors using IMD, and is "TRSNET32.IMD"
+720 Sectors, 5 Compressed, 252 Deleted
+
+Attempt 2: Using CopyCat on a Real Model 4 Disk System, copying from the actual source disks to a Gotek empty 180k SSDD HFE, Thank you Patrick of TTR!
+
+Steps taken to test:
+
+Booted a Model 4 in LDOS (Model III Mode) using the FreHD, and with Gotek as Drive 1 selected "Disk 1: Network III Operating System for Model III Hard Disk with LDOS"
+Once the OS loaded, start "HOST.CMD" at the promt, and the program started to the point it was listening for student stations.
+
+Using IMD, created a phyiscal diskette from the "TRSNET32.IMD" image, and booted the real Model 4 into the Model III Network 3 Student OS Version 2.1.4
+
+EOL
