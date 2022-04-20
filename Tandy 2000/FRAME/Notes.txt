@@ -1,0 +1,8 @@
+Diskettes 1-3 are QDDS (80T)
+Diskettes 4-5 are DDDS (40T)
+
+Diskette 1 and 2 have a issue with track 16
+only 8 sectors detected, with sector 1 recorded bad, and no data in the rest (2-8)
+
+All other diskettes recorded correctly.
+
