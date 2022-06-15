@@ -3,7 +3,9 @@ File created using a TRS-80 Model 4 Hard Disk Drive (15MB) Tandon TM503
 6 Heads, 306 Cylnders
 
 This is the Network 3 Operating System built on LDOS 5.1.3
+
 --> Initialization Floppy is Needed <--
+
 LDOS 5.1.3 Hard Drives are initialized using a floppy disk that has customized configuration of the logical setup of the hard disk.
 The Diskette is included here, and recommended multiple copies are created:
 
