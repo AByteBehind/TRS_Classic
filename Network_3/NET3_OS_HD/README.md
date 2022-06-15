@@ -1,3 +1,4 @@
+# TRS-80 Model III/4 Network 3 Hard Disk Operating System
 File created using a TRS-80 Model 4 Hard Disk Drive (15MB) Tandon TM503
 6 Heads, 306 Cylnders
 
@@ -8,11 +9,11 @@ The Diskette is included here, and recommended multiple copies are created:
 
 Logical Drive Setup:
 This file is a 15MB Image, broken into 6 logical hard drives, around 2.4MB each:
-Disk 0: - Contains all of the required software to run the Network 3 Setup, files are copied here and must remain in disk 0.
+Disk 0: - Contains all of the required software to run the Network 3, files are copied here and must remain in disk 0.
 - NBASIC and related programs (MAILBOX, etc)
 - HOST/CMD - The hosting (server side program)
 - Other files to support NET2, etc.
-Disk 1: - Games Folder - A few TRS-80 Games that were copied to the system to test and play:
+Disk 1: - Blank
 Disk 2: - Blank
 Disk 3: - Blank
 Disk 4: - The first floppy disk (Drive 0) on the host
